@@ -40,6 +40,7 @@
 |------|-------------|-------|------|
 | FuzzyAI | Automated LLM fuzzing | 1.2K | [GitHub](https://github.com/cyberark/FuzzyAI) |
 | AgentFence | AI agent security testing | 51 | [GitHub](https://github.com/agentfence/agentfence) |
+| HOL Guard | Runtime policy and approvals for AI coding agents and supported MCP tool calls | - | [GitHub](https://github.com/hashgraph-online/hol-guard) |
 | power-pwn | Offensive security toolset for AI agents | - | [GitHub](https://github.com/mbrg/power-pwn) |
 
 ### Security Copilots
